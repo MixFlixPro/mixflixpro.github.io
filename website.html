@@ -1,0 +1,334 @@
+
+<!DOCTYPE html>
+<html lang="ar">
+
+<title>تلفزيون هلا رام الله</title>
+
+<head data-cast-api-enabled="true">
+
+<!-- Chromecast SDK -->
+    <script type="text/javascript" src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+
+<!-- cdnjs : use a specific version of Video.js (change the version numbers as necessary) -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video-js.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js"></script>
+
+
+
+    <!-- Brightcove quality picker -->
+    <link href="//players.brightcove.net/videojs-quality-menu/1/videojs-quality-menu.css" rel="stylesheet">
+    <script src="//players.brightcove.net/videojs-quality-menu/1/videojs-quality-menu.min.js"></script>
+
+    <script src="https://cdn.streamroot.io/videojs-hlsjs-plugin/1/stable/videojs-hlsjs-plugin.js"></script>
+
+
+
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="تلفزيون هلا رام الله ‫-‬ فلسطين">
+  <meta name="keywords" content="قناة،تلفزيون،هلا،رام الله،قناة هلا،قناه هلا رام الله،تلفزيون رام الله">
+  <meta name="author" content="Mahmoud Nakhleh">
+
+<meta property="og:title" content="HalaRamallahTV | تلفزيون هلا رام الله">
+<meta property="og:description" content="تلفزيون هلا رام الله شاهد البث المباشر الان من قلب مدينة رام الله">
+<meta property="og:image" content="https://i.ibb.co/6bfBkdc/logohala.png">
+<link rel="shortcut icon" href="https://i.ibb.co/6bfBkdc/logohala.png">
+<meta property="og:url" content="https://halaramallahtv.com/">
+<meta property="og:type" content="application/x-mpegURL" />
+<meta property="og:video" content="Live Streaming" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+* {
+  box-sizing: border-box; 
+}
+
+
+body {margin:0;height:auto;}
+
+.icon-bar a {
+  display: inline;
+  text-align: center;
+  padding: 4px 50px;
+  margin: 10px 1px;
+  transition: all 0.6s ease;
+  color: white;
+  font-size: 2rem;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.icon-bar a:hover {
+  background-color: #111;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.whatsapp {
+  background: #4CAF50;
+  color: white;
+  
+}
+
+.content {
+  margin-left: 75px;
+  font-size: 30px;
+}
+
+
+body {
+    background-color: #000;
+    background-image: linear-gradient(to left, #111 , #042453 , #111);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    font-family: 'Comfortaa', 'Almarai', cursive;
+    text-align: center;
+    margin: 0px;
+}
+
+/* Content */
+.content {
+  padding: 0px;
+
+}
+
+.image:hover {
+  opacity: 1;
+  background-color: #552f91;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: right;
+    padding: 2px 2.5px 0px 2.5px;
+
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 1rem;
+    direction: rtl;
+    padding: 7px 0px 13px 0px;
+    margin-block-start: 0.2em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 0.5rem;
+    direction: rtl;
+    background-image: linear-gradient(to right, #111 , #808080 , #b7b7b7);
+    padding: 0px 0;
+    margin-block-start: 0em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    border-bottom: 2px solid #ffffff;
+    border-radius: 0 0 0px 105px;
+}
+
+
+
+h4 {
+    color: #ffffff;
+    font-size: 1.5rem;
+    direction: rtl;
+    background-image: linear-gradient(to right, #111 , #808080 , #b7b7b7);
+    padding: 10px 0;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 50px;
+    margin-inline-end: 50px;
+    border-top: 3px solid #ffe7e7;
+    border-radius: 40px;
+}
+
+.footerSpace {
+    padding: 0px 0px 20px 0px;
+    visibility: hidden;
+    }
+    
+.footer {
+    position: fixed;
+    left: 0;
+    direction: rtl;
+    bottom: 0;
+    font-size: 0.8rem;
+    width: 100%;
+    background-image: linear-gradient(to left, #111 , #222 , #042453);
+    border-top: 1px solid #444;
+    color: white;
+    text-align: center;
+    line-height: 16px;
+}
+
+
+#container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+#monitor {
+    background-image: linear-gradient(to right, #333 , #666 , #333);
+    position: relative;
+    border-top: 1px solid #222;
+    margin: 0% 3%;
+    padding: 1% 1% 2% 1%;
+    border-radius: 8px;
+    border-bottom-left-radius: 50% 2%;
+    border-bottom-right-radius: 50% 2%;
+    transition: margin-right 1s;
+}
+
+#monitor:after {
+	content: '';
+	display: block;
+	position: absolute;
+	bottom: 2%;
+	left: 36%;
+	height: .5%; 
+	width: 28%;
+	background: #fff; 
+	border-radius: 50%; 
+	box-shadow: 0 0 3px 0 #fff; 
+}
+
+#monitorscreen {
+	position: relative;
+    background-color: #777;
+	background-size: cover; 
+	background-position: top center;
+	height: 0; 
+	padding-bottom: 56.25%; 
+	position: relative;
+	overflow: hidden;
+}
+
+/* Responsive layout - makes a three column-layout instead of four columns */
+@media screen and (max-width: 4000px) {
+  .column {
+    width: 25%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 240px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+</style>
+</head>
+<body>
+
+<a href="https://halaramallahtv.com/"><img src="https://i.ibb.co/swP1FDK/halaramallah-logo.png" alt="HalaRamallahTV" width="150" height="auto"></a>
+
+<div id="container">
+  <div id="monitor">
+    <div id="monitorscreen">
+
+
+
+<div id="videoArea"></div>
+<video
+  id="player"
+  class="video-js vjs-fluid vjs-big-play-centered vjs-16-9"
+  controls
+  playsinline
+  preload="none"
+  width="1280"
+  height="720"
+  poster='/shahid-ps/img/playbg.jpg'
+  data-setup="{}">
+  
+  <source id="videoArea" src="https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/playlist.m3u8"
+  type="application/x-mpegURL"/>
+
+<p class="vjs-no-js">
+هذا المتصفح غير مدعوم، جرب متصفح جوجل كروم 
+</p>
+</video>
+
+
+    </div>
+  </div>
+</div>
+
+<div class="icon-bar">
+  <a href="https://www.facebook.com/hala.ramallah.tv/" class="facebook"><i class="fa fa-facebook"></i></a> 
+  <a href="https://wa.link/4j6jh3" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
+</div>
+
+
+
+
+   <script>
+        var options = {
+            plugins: {
+                streamrootHls: {
+                    hlsjsConfig: {
+                    },
+                },
+            }
+        };
+  var player=videojs('player',{'autoplay': true,'fluid':true});
+player.play();
+player.landscapeFullscreen();
+        player.qualityMenu();
+        player.dvrux();
+   </script>
+<script>
+var urlButtons = document.querySelectorAll(".column2");
+var myRegex = /^https:\/\/.*\.(m3u8)$/;
+var links = document.querySelectorAll(".Shahid-url");;
+var videoArea = document.getElementById('videoArea');
+function triggerCloudy(index) {
+	let link = links[index].value;
+	if (link.length > 10 && myRegex.test(link)) {
+		var myPlayer = videojs("player");
+		myPlayer.src(link);
+		myPlayer.play();
+	}
+}
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+for (let i = 0; i < urlButtons.length; i ++) {
+	urlButtons[i].addEventListener('click', function() {
+		triggerCloudy(i);
+	}, false);
+}
+   </script>
+
+
+
+
+
+
+</body>
+</html>
