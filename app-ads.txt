@@ -355,7 +355,7 @@ boostappi.com, 10013, RESELLER
 wortise.com, 005ed56f-0601-4da0-b9ef-d25b8b71170d, DIRECT
 boostappi.com, 10013, RESELLER
 wortise.com, 005ed56f-0601-4da0-b9ef-d25b8b71170d,
-DIRECT,start.io, 112884517, DIRECT
+DIRECT,start.io, 112884517, direct
 startapp.com, 112884517, DIRECT
 pubnative.net, 1007349, RESELLER, d641df8625486a7b
 Verve.com, 15503, RESELLER, 0c8f5958fc2d6270
