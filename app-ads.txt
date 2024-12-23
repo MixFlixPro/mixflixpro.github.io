@@ -1,4 +1,4 @@
-google.com, pub-9579560190547702, #Google# 19-09-2024
+google.com, pub-9579560190547702, DIRECT, f08c47fec0942fa0
 
 google.com, pub-1912561085588771, DIRECT, f08c47fec0942fa0
 google.com, pub-4537341636281998, DIRECT, f08c47fec0942fa0
