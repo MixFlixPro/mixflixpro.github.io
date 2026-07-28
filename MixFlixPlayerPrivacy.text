@@ -1,62 +1,133 @@
 Privacy Policy
-built the WAFI PLAYER app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Last updated: July 29, 2026
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+[NodaGroup] built WAFI PLAYER as a free, ad-supported media player. This Privacy Policy explains how information is accessed, processed, stored, and shared when you use the application.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at WAFI PLAYER unless otherwise defined in this Privacy Policy.
+By using WAFI PLAYER, you agree to the practices described in this Privacy Policy.
 
-Information Collection and Use
+1. About WAFI PLAYER
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to ubeyd.kaymaz. The information that I request will be retained on your device and is not collected by me in any way.
+WAFI PLAYER is an independent media player for Android phones, tablets, and Android TV devices.
 
-The app does use third party services that may collect information used to identify you.
+The application does not provide, host, sell, or distribute television channels, subscriptions, movies, series, playlists, or copyrighted content.
 
-Link to privacy policy of third party service providers used by the app
+Users are responsible for the local files, URLs, playlists, and other playback information they add to the application and must have the legal right or authorization to access and play such content.
 
-Google Play Services
-AdMob
-Log Data
+2. Local Media Files
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+When you choose a local video or audio file, WAFI PLAYER accesses the selected file only to play it on your device.
 
-Cookies
+Selected local media files are not uploaded to servers operated by the developer.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+The application may use Android's system file picker to allow you to select media from device storage or a connected storage device.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+3. User-Added URLs and Playlists
 
-Service Providers
+Users may enter media URLs, playlist URLs, playlist names, playback headers, cookies, referrer values, origin values, custom user-agent values, and DRM license information.
 
-I may employ third-party companies and individuals due to the following reasons:
+This information is processed only to provide the playback functionality requested by the user.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Saved playlists, application preferences, and related settings may be stored locally on the user's device until they are deleted from the application, the application's storage is cleared, or the application is uninstalled.
 
-Security
+When a user starts playback, the relevant URL and required request information may be transmitted to the selected media server, playlist server, DRM license server, or other destination chosen by the user.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+These external servers may receive technical information normally transmitted during an internet connection, including the user's IP address, user-agent information, request headers, and connection time.
 
-Links to Other Sites
+Users should not enter passwords, authentication tokens, cookies, or other sensitive information unless they trust the destination server and are authorized to use that information.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+4. Peer-to-Peer Playback
 
-Children’s Privacy
+Where a peer-to-peer playback feature is enabled, network connection information, including IP address and connection metadata, may be exchanged with other peers as required to establish the connection.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Peer-to-peer features are used only when enabled for the relevant playback source.
 
-Changes to This Privacy Policy
+5. Advertising and Third-Party Services
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+WAFI PLAYER uses third-party services and software development kits to provide advertisements, measure advertising performance, detect fraud, and maintain application functionality.
 
-This policy is effective as of 2026-07-29
+These services may include:
 
-Contact Us
+• Google Play Services
+• Google Mobile Ads SDK / AdMob
+• Google Interactive Media Ads SDK
+• Wortise
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at groupnoda@gmail.com.
+Depending on their configuration and the user's device settings, these providers may collect or process information such as:
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+• IP address and approximate location derived from the IP address
+• Advertising identifiers and other device identifiers
+• Device model, operating system, language, and application version
+• Application launches, taps, video views, and advertising interactions
+• Crash, diagnostic, performance, and technical information
+• Network and connection information
+• Information about advertisements displayed or interacted with
+
+These providers process information according to their own privacy policies and legal obligations.
+
+The developer does not control every data-processing activity performed independently by third-party advertising providers.
+
+6. Log and Diagnostic Data
+
+If an error occurs, third-party SDKs integrated into WAFI PLAYER may process diagnostic information relating to the application or device.
+
+This may include application version, operating system version, device model, application launch information, crash details, performance information, timestamps, and other technical statistics.
+
+This information may be used for application stability, advertising measurement, analytics, fraud prevention, and troubleshooting.
+
+7. Cookies and Similar Technologies
+
+WAFI PLAYER does not directly operate a website-based cookie system inside the application.
+
+However, advertising providers, external media servers, or links opened by the user may use cookies, advertising identifiers, local storage, or similar technologies according to their own privacy policies.
+
+8. Data Security
+
+WAFI PLAYER uses reasonable technical measures to protect information processed by the application.
+
+HTTPS and encrypted connections are used where supported by the destination service.
+
+Some user-provided or third-party media sources may use unencrypted HTTP connections. Information transmitted through an HTTP connection is not protected in the same way as information transmitted through HTTPS.
+
+Users should avoid sending sensitive information to untrusted or unencrypted servers.
+
+No method of electronic transmission or storage is completely secure, and absolute security cannot be guaranteed.
+
+9. Data Retention and Deletion
+
+The developer does not maintain an account database for WAFI PLAYER and does not store users' local media files on developer-operated servers.
+
+Locally saved playlists, URLs, and settings remain on the device until the user deletes them, clears the application's storage, or uninstalls the application.
+
+Data processed independently by third-party providers is retained according to their respective privacy policies and legal requirements.
+
+Users may contact the developer using the email address below regarding privacy questions or deletion requests relating to information controlled directly by the developer.
+
+10. External Links and Services
+
+WAFI PLAYER may open user-provided URLs, media servers, advertisement links, or other third-party services.
+
+These third-party services are not operated or controlled by the developer. Users should review the privacy policies and security practices of any external service they access.
+
+The developer is not responsible for the content, availability, privacy practices, or security of third-party services.
+
+11. Children's Privacy
+
+WAFI PLAYER is not directed to children under the age of 13, or a higher minimum age where required by local law.
+
+The developer does not knowingly request or directly collect personal information from children.
+
+If you believe that a child has provided personal information directly to the developer, please contact the developer so that appropriate action can be taken.
+
+12. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time to reflect changes to the application, third-party services, legal requirements, or data-processing practices.
+
+Any updated version will be published on this page with a revised “Last updated” date.
+
+13. Contact Us
+
+For questions, requests, or concerns regarding this Privacy Policy, contact:
+
+Developer: [NodaGroup]
+Email: groupnoda@gmail.com
